@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/plima/OneDrive/thelock/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/plima/OneDrive/thelock/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
