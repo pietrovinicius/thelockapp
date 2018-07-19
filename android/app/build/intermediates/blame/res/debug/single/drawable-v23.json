@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/drawable-v23/abc_control_background_material.xml"
     }

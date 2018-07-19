@@ -2,76 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_4c50534a211961b5f3cab7f1adf920d37d7df976/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1738b743f11c1f075b42987b353c0c05169355a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_a0e5d913429644b1a436404731b8808b3b1fc7e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/816d2961426c0c6c5d4a23b0eb1dbba0e515cbf4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d36947b08baacdf08f38069534ec888335d936c6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/d9f674beb28e91d86c94e9df03db52fd93bdcbf0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f26d3673514284ef3386948be7be0fd0f3c0b666/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="102d7be47241d781ef95f1581d414b0943053130">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_92f832234242992ee34dd63917c3c4303f3dcd3f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/b35477f55f64aa96ae4363ae97f80bc14322b1ef/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeea02d40e0280f39dcb49639465142835d66689/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/0c65b0ce2ddbbeff81a87a1dcfde6d3a4ac0b690/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7940cd3de15d81a9bf76f2b1c767dee093b2ba5/classes.dex" />
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/plima/OneDrive/thelockapp/android/app/build/intermediates/pre-dexed/debug/classes_2c04456ddcbc213f724c28d54ca38913a4b0b629.jar" />
     </item>
     <item
         is-multidex="false"
@@ -83,24 +20,6 @@
         <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/pre-dexed/debug/classes_8b9cc73d5328334860dd85a0b2a61dd2f4327330.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b9cc73d5328334860dd85a0b2a61dd2f4327330/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/cba5fa1cd0b9e463eb4be8c64d644040ff5e9df0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0e483c7fbef75d8407f072c0d48935dbaa042ba/classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
@@ -110,202 +29,13 @@
         <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b03948576009a983db68b9a7bf2790687978914d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_b03948576009a983db68b9a7bf2790687978914d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_bba240fe90accf9fe787534d7b3a9a0dc9a601cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/OneDrive/thelock/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c89b306f9cc4fe050330fc313e25d5246d75fd2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_5c9fd14cbe4e7ad3a62e83ecbfda9bd22526496c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/c86aa8390c9aee642e628eab92deb3a468a0c167/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8e5ca9a40c328c7ddfa9fffdc1f11d22c64f28b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/37dec8051b55c851016f0d5e7cb7f29719f36f49/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3304a4ca23c10f66834aa4ad246744b5b2e9510/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_9c0ce85039e8966495f52718b9bef1c7bc27a6e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/14acdd7f408457409ec6645dbc31a8f0cd394403/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea42312723b3ac9e8f2bf4ca582d4b9f6709b4a2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_612613d7e6865087138aa9bcf3ef87662897f393/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/d7d5cc0a0ed6de57a86b1132122cae7844cafbd7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a851ebb7f2b60f973518faeb3552b35cacf2865/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fbd8cded09c223118c3d0b5cce5096b308e3577/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b3a94e8920e65d5bf1aaf804c66736a38f14921/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/a9d7ac9558c1b2647657e04164d8feb6e8cf1f16/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffa639924fa679a1793c41b8bafa0f379f267649/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_ceec9288d55ea1ac71d6b937341a65e8c9d844e3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/325c14dcae69dd3f42d38b7119e16b957621786d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d54e46e2282242986598490d0bf4dcaf1a8db165/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/eb3481b361261a929238445fa16c3fd50ed8ab36/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a68c055d8c214c2b94b3a0a433af1fb51e2609a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_11ec06602ebf2b8714f1ccc3c1c0808606f398dd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/4c04351bb548df1bf46f3893b4389612acbac6d1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5fe2207b0ed04f24f005fb5c80e300fc58e0182/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ec614c05825ddd2267677a99f585d3913474b125">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_d2e3f7f4e28c5686613f66edae27192b936239d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/0ab4a5cebe80d760d7dd9a6f34d74af48edf3f1d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d4b4d05283cd4adfa251f2825dd778213d53b5a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/.android/build-cache/531b081a61d85ac190a8b63ba42e6d61626103bc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d86a39ef0eb64804461a805bc0db41c206098a6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/plima/OneDrive/thelock/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="eaf5fca95dbffa793ec062b13b37ed76e5803756">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dbd183fab9de3a99e0edb2278f51e35e6ddb7ee9/classes.dex" />
+        <dex dex="/home/plima/OneDrive/thelockapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_94d35eba92ac46d8a9f90ccbbcf90d282d997450.jar" />
     </item>
 
 </items>
