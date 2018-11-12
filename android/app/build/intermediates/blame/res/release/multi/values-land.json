@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "outputFile": "/home/plima/OneDrive/thelock/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -92,7 +92,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -111,7 +111,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -130,7 +130,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -149,7 +149,88 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-land/values-land.xml",
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

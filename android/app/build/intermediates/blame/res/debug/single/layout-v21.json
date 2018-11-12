@@ -1,34 +1,50 @@
 [
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_action.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_action.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

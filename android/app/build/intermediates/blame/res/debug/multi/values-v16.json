@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/plima/OneDrive/thelock/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "outputFile": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -56,7 +56,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -76,7 +76,52 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

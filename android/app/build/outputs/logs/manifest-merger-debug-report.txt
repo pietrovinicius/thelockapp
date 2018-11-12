@@ -1,128 +1,130 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:2:5-29
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.56.0] /home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/AndroidManifest.xml:11:5-78
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\pietr\.android\build-cache\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\output\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:5:22-75
 application
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.56.0] /home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/plima/.android/build-cache/0ab4a5cebe80d760d7dd9a6f34d74af48edf3f1d/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/plima/.android/build-cache/325c14dcae69dd3f42d38b7119e16b957621786d/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/plima/.android/build-cache/eb3481b361261a929238445fa16c3fd50ed8ab36/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/plima/.android/build-cache/cba5fa1cd0b9e463eb4be8c64d644040ff5e9df0/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/plima/.android/build-cache/4c04351bb548df1bf46f3893b4389612acbac6d1/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/plima/.android/build-cache/816d2961426c0c6c5d4a23b0eb1dbba0e515cbf4/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/plima/.android/build-cache/531b081a61d85ac190a8b63ba42e6d61626103bc/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.facebook.soloader:soloader:0.3.0] /home/plima/.android/build-cache/14acdd7f408457409ec6645dbc31a8f0cd394403/output/AndroidManifest.xml:11:5-20
-MERGED from [org.webkit:android-jsc:r174650] /home/plima/.android/build-cache/a75ace6340e94431922d9c2de237337bf66ac62c/output/AndroidManifest.xml:2:3-17
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\pietr\.android\build-cache\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pietr\.android\build-cache\5be0f8365f0b69643031432355df457e3b4e9858\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pietr\.android\build-cache\d1a49b889220dc475822a78177d426a826d25133\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pietr\.android\build-cache\aa3fcaeda4f11b7dcd4b5e3521e2b1fd1a1d32d4\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pietr\.android\build-cache\1bfbf65201305174510ab1efda778e265e74d8d6\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pietr\.android\build-cache\55e87697cecf58d235b0e893f15dd48fd92fffad\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pietr\.android\build-cache\9f2f8cef4bd459e672c752a058c92f7d2a782bf9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pietr\.android\build-cache\dc5e25706a794e83d4dfa4f0a69c4dfb08bd182f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pietr\.android\build-cache\ad9d2d2657364919d86be9ad33eee5a223e8aa89\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pietr\.android\build-cache\65b82d1c4a6dbcbe80cc7247f8cbe2459c017282\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\pietr\.android\build-cache\13a5944ea8479ae1aec99d46cad5d092e85abd19\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pietr\.android\build-cache\1381074946ee0c4cdccea7c4cbe6a3d78be1965b\output\AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:allowBackup
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:icon
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:10:7-41
 	android:theme
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:8:7-52
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:8:7-52
 activity#com.thelockapp.MainActivity
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:14:9-51
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:14:9-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.facebook.react:react-native:0.56.0] /home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /home/plima/.android/build-cache/0ab4a5cebe80d760d7dd9a6f34d74af48edf3f1d/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/plima/.android/build-cache/325c14dcae69dd3f42d38b7119e16b957621786d/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/plima/.android/build-cache/eb3481b361261a929238445fa16c3fd50ed8ab36/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/plima/.android/build-cache/cba5fa1cd0b9e463eb4be8c64d644040ff5e9df0/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/plima/.android/build-cache/4c04351bb548df1bf46f3893b4389612acbac6d1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/plima/.android/build-cache/816d2961426c0c6c5d4a23b0eb1dbba0e515cbf4/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/plima/.android/build-cache/531b081a61d85ac190a8b63ba42e6d61626103bc/output/AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/plima/.android/build-cache/c86aa8390c9aee642e628eab92deb3a468a0c167/output/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.9.0] /home/plima/.android/build-cache/0c65b0ce2ddbbeff81a87a1dcfde6d3a4ac0b690/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.9.0] /home/plima/.android/build-cache/37dec8051b55c851016f0d5e7cb7f29719f36f49/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/plima/.android/build-cache/b35477f55f64aa96ae4363ae97f80bc14322b1ef/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/plima/.android/build-cache/d9f674beb28e91d86c94e9df03db52fd93bdcbf0/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/plima/.android/build-cache/d7d5cc0a0ed6de57a86b1132122cae7844cafbd7/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/plima/.android/build-cache/a9d7ac9558c1b2647657e04164d8feb6e8cf1f16/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.3.0] /home/plima/.android/build-cache/14acdd7f408457409ec6645dbc31a8f0cd394403/output/AndroidManifest.xml:7:5-9:41
+INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\pietr\.android\build-cache\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pietr\.android\build-cache\5be0f8365f0b69643031432355df457e3b4e9858\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pietr\.android\build-cache\d1a49b889220dc475822a78177d426a826d25133\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pietr\.android\build-cache\aa3fcaeda4f11b7dcd4b5e3521e2b1fd1a1d32d4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pietr\.android\build-cache\1bfbf65201305174510ab1efda778e265e74d8d6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pietr\.android\build-cache\55e87697cecf58d235b0e893f15dd48fd92fffad\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pietr\.android\build-cache\9f2f8cef4bd459e672c752a058c92f7d2a782bf9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pietr\.android\build-cache\dc5e25706a794e83d4dfa4f0a69c4dfb08bd182f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pietr\.android\build-cache\ad9d2d2657364919d86be9ad33eee5a223e8aa89\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pietr\.android\build-cache\65b82d1c4a6dbcbe80cc7247f8cbe2459c017282\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\pietr\.android\build-cache\0e597becb13e6fcc56edac3758820d57df2daab8\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\pietr\.android\build-cache\c3f916f44ba69623f58f453a94560165f0cdcf8f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\pietr\.android\build-cache\858191db46d7c4381c906efed713973207c11d0a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\pietr\.android\build-cache\bf48391e62fab6c06cfda71fc470a8590cc74748\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\pietr\.android\build-cache\13a5944ea8479ae1aec99d46cad5d092e85abd19\output\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] C:\Users\pietr\.android\build-cache\34e2439a84ccd8ae6fa9cc61914c338968283e15\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.3.0] C:\Users\pietr\.android\build-cache\abaca48820be81052226e75e1d6fdf0014a1dbdc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\pietr\.android\build-cache\f83bd44f368c99994fa1e12a5785220936b1e7f4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\pietr\.android\build-cache\3a595aa411bd5823e2c974ac5f5d0ae5c1c3866e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\pietr\.android\build-cache\69c8b5cd3ed6584b68588a2ec9d7e51b202f6433\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/plima/.android/build-cache/0ab4a5cebe80d760d7dd9a6f34d74af48edf3f1d/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/plima/.android/build-cache/325c14dcae69dd3f42d38b7119e16b957621786d/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/plima/.android/build-cache/eb3481b361261a929238445fa16c3fd50ed8ab36/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/plima/.android/build-cache/cba5fa1cd0b9e463eb4be8c64d644040ff5e9df0/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/plima/.android/build-cache/4c04351bb548df1bf46f3893b4389612acbac6d1/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/plima/.android/build-cache/816d2961426c0c6c5d4a23b0eb1dbba0e515cbf4/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pietr\.android\build-cache\5be0f8365f0b69643031432355df457e3b4e9858\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pietr\.android\build-cache\d1a49b889220dc475822a78177d426a826d25133\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pietr\.android\build-cache\aa3fcaeda4f11b7dcd4b5e3521e2b1fd1a1d32d4\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pietr\.android\build-cache\1bfbf65201305174510ab1efda778e265e74d8d6\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pietr\.android\build-cache\55e87697cecf58d235b0e893f15dd48fd92fffad\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pietr\.android\build-cache\9f2f8cef4bd459e672c752a058c92f7d2a782bf9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pietr\.android\build-cache\dc5e25706a794e83d4dfa4f0a69c4dfb08bd182f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pietr\.android\build-cache\ad9d2d2657364919d86be9ad33eee5a223e8aa89\output\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/plima/.android/build-cache/531b081a61d85ac190a8b63ba42e6d61626103bc/output/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pietr\.android\build-cache\65b82d1c4a6dbcbe80cc7247f8cbe2459c017282\output\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/plima/.android/build-cache/531b081a61d85ac190a8b63ba42e6d61626103bc/output/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pietr\.android\build-cache\65b82d1c4a6dbcbe80cc7247f8cbe2459c017282\output\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/plima/.android/build-cache/531b081a61d85ac190a8b63ba42e6d61626103bc/output/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pietr\.android\build-cache\65b82d1c4a6dbcbe80cc7247f8cbe2459c017282\output\AndroidManifest.xml:26:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/plima/OneDrive/thelockapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\ReactNative\thelockapp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

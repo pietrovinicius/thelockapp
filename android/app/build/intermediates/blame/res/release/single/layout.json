@@ -1,410 +1,614 @@
 [
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_action_tombstone.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooltip.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\tooltip.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_view.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\\output\\res\\layout\\redbox_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_frame.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\\output\\res\\layout\\redbox_item_frame.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_title.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\20029725c0cdc73347e2471d0e022a9a5e3f2602\\output\\res\\layout\\redbox_item_title.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_lines_media.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
-        "source": "/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/res/layout/dev_loading_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_template_icon_group.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/redbox_view.xml",
-        "source": "/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/res/layout/redbox_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_search_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
-        "source": "/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/res/layout/redbox_item_title.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\fps_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\20029725c0cdc73347e2471d0e022a9a5e3f2602\\output\\res\\layout\\fps_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\20029725c0cdc73347e2471d0e022a9a5e3f2602\\output\\res\\layout\\redbox_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
-        "source": "/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/res/layout/dev_loading_view.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_media_custom.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_action.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_action.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\fps_view.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\\output\\res\\layout\\fps_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_media_action.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media_custom.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/tooltip.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/tooltip.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/fps_view.xml",
-        "source": "/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/res/layout/fps_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_template_icon_group.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/fps_view.xml",
-        "source": "/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/res/layout/fps_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_media_cancel_action.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
-        "source": "/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/res/layout/redbox_item_title.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooltip.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\tooltip.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_action_tombstone.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_media_custom.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\fps_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\aa195b68695b58e8a0bbaf6faa385bd002b122bc\\output\\res\\layout\\fps_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_frame.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\aa195b68695b58e8a0bbaf6faa385bd002b122bc\\output\\res\\layout\\redbox_item_frame.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_media_cancel_action.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\dev_loading_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\aa195b68695b58e8a0bbaf6faa385bd002b122bc\\output\\res\\layout\\dev_loading_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
-        "source": "/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/res/layout/redbox_item_frame.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/tooltip.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/tooltip.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media_custom.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_lines_media.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_action.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_action.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\dev_loading_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\20029725c0cdc73347e2471d0e022a9a5e3f2602\\output\\res\\layout\\dev_loading_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_search_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_media_action.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/redbox_view.xml",
-        "source": "/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/res/layout/redbox_view.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
-        "source": "/home/plima/.android/build-cache/63f38d20c3207e84567de2c8e3d3560541616a0f/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
-        "source": "/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/res/layout/redbox_item_frame.xml"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_title.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\\output\\res\\layout\\redbox_item_title.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_frame.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\20029725c0cdc73347e2471d0e022a9a5e3f2602\\output\\res\\layout\\redbox_item_frame.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\63f38d20c3207e84567de2c8e3d3560541616a0f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\dev_loading_view.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\\output\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_view.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\aa195b68695b58e8a0bbaf6faa385bd002b122bc\\output\\res\\layout\\redbox_view.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_title.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\aa195b68695b58e8a0bbaf6faa385bd002b122bc\\output\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooltip.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     }
 ]

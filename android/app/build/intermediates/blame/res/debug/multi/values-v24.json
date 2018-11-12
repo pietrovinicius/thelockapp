@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/plima/OneDrive/thelock/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+        "outputFile": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 411
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 475
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 544
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 680
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 741
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 807
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 874
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -195,7 +195,7 @@
         ]
     },
     {
-        "outputFile": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+        "outputFile": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
         "map": [
             {
                 "to": {
@@ -206,7 +206,7 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -225,7 +225,7 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -244,7 +244,7 @@
                     "endOffset": 411
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -263,7 +263,7 @@
                     "endOffset": 475
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -282,7 +282,7 @@
                     "endOffset": 544
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -301,7 +301,7 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 680
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -339,7 +339,7 @@
                     "endOffset": 741
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -358,7 +358,7 @@
                     "endOffset": 807
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -377,7 +377,202 @@
                     "endOffset": 874
                 },
                 "from": {
-                    "file": "/home/plima/.android/build-cache/7c35d374ff29faac004a44af4264058f81aef87d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 66,
+                        "endOffset": 310
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 156,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 134,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 134,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 68,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 68,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 63,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 63,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 68,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 68,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 69,
+                    "endOffset": 614
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 69,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 619,
+                    "endColumn": 65,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 60,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 60,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 65,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 65,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 66,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "C:\\Users\\pietr\\.android\\build-cache\\d1a49b889220dc475822a78177d426a826d25133\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

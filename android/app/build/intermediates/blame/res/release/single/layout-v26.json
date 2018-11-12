@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout-v26/abc_screen_toolbar.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
-        "source": "/home/plima/.android/build-cache/8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372/output/res/layout-v26/abc_screen_toolbar.xml"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
     }
 ]

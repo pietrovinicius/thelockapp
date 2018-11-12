@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/home/plima/OneDrive/thelockapp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\ReactNative\\thelockapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/plima/OneDrive/thelockapp/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/plima/OneDrive/thelockapp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\ReactNative\\thelockapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/plima/OneDrive/thelock/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/plima/OneDrive/thelock/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/home/plima/OneDrive/thelock/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

@@ -3,39 +3,291 @@
 
     <item
         is-multidex="false"
-        jar="/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/jars/classes.jar"
+        jar="C:\Users\pietr\.android\build-cache\dc5e25706a794e83d4dfa4f0a69c4dfb08bd182f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/home/plima/OneDrive/thelockapp/android/app/build/intermediates/pre-dexed/debug/classes_2c04456ddcbc213f724c28d54ca38913a4b0b629.jar" />
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_ad852390449c6826cdaf25afc56b4a1d4470d21c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/jars/classes.jar"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/pre-dexed/debug/classes_8b9cc73d5328334860dd85a0b2a61dd2f4327330.jar" />
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_270d4605ca69e382859c3fed7395ba040b093b64.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/plima/.android/build-cache/aa195b68695b58e8a0bbaf6faa385bd002b122bc/output/jars/libs/infer-annotations-4.0.jar"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_4be954552bcea5682a3ba56277626b442ad5f196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\f83bd44f368c99994fa1e12a5785220936b1e7f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_27e40560516d9801fe1cf49772e3afc708ad1f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\65b82d1c4a6dbcbe80cc7247f8cbe2459c017282\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_e09c256bbdb51f8469c742607a9f766db837a5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\aa3fcaeda4f11b7dcd4b5e3521e2b1fd1a1d32d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_1a43aac8f44e63695939f002e6298e9ed7db3a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\c3f916f44ba69623f58f453a94560165f0cdcf8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_b74f0e93e95d4d541f5af747482877868108868d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\69c8b5cd3ed6584b68588a2ec9d7e51b202f6433\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_6950cd0ced5ce2dea6e00f2b70bc27b428da4511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\0e597becb13e6fcc56edac3758820d57df2daab8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_d78c2f65ab41a0e79eebfbf8a6a9020ed3871683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\13a5944ea8479ae1aec99d46cad5d092e85abd19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_9dca9b0c79fb485da01f4db0b7763a7f9f4b113d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_097f428c2230e730a0f935202d6a4e2f834b2334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\9f2f8cef4bd459e672c752a058c92f7d2a782bf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_dc46e4f46a9b07ff28eda2a634d31803c49ea890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\1bfbf65201305174510ab1efda778e265e74d8d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_7184e275c85c2f9968e0e74106bc2bc9683b2880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_9d9fa5a893f1306dce733f30bcc7e3aad48a8f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\34e2439a84ccd8ae6fa9cc61914c338968283e15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_a1487fbd9e19c7a696cbe9eafbbd3c1b064e7c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_6f3a5980f5eff0df7440cb1cfef04b6efdeb3ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_382a451e97510a147db14d2e0f12cab2604f6a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_468f55449d16aff5e30e0051a1c9c6778b19fa77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\bf48391e62fab6c06cfda71fc470a8590cc74748\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_5016474ec7a3d6f79d1e563c58179e56a3deee90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\65edfd82b6129925ce2ce77f61b87aa31be13a1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_787ad464878838531bf4406762cb2baccfba6ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\858191db46d7c4381c906efed713973207c11d0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_80adaf7d3dee7f14353e133aa03b38252cc0b08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\abaca48820be81052226e75e1d6fdf0014a1dbdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_40f0ce20899a6266781a7e72666d3232d85ea404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_e897a6e7bde2695d9642fa79902afbc5225ab524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_038ff010666224e0f2b65b3797b87688baf347b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1b07a61b3f92db6ea3a996a6e02ac433cf04e330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_02a67f9c5ea6a0dace6e61fb9c65981652dc58d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\d1a49b889220dc475822a78177d426a826d25133\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_e24015fb686512373c601ee70150135fdc61f1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\55e87697cecf58d235b0e893f15dd48fd92fffad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_d3fdcdb54570347b4a951d7e825bb04fc4d90f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\b7bc0a1a056a039dc255d1a0038e5f165d10dd8e\output\jars\libs\infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/plima/OneDrive/thelock/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b03948576009a983db68b9a7bf2790687978914d.jar" />
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_d61b7ba741ebd461e19c8661cc10dc1430bc7644.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/plima/.android/build-cache/20029725c0cdc73347e2471d0e022a9a5e3f2602/output/jars/libs/infer-annotations-4.0.jar"
+        jar="C:\Users\pietr\.android\build-cache\3a595aa411bd5823e2c974ac5f5d0ae5c1c3866e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/plima/OneDrive/thelockapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_94d35eba92ac46d8a9f90ccbbcf90d282d997450.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_7b213584a6ca0b6844527af9b16b2a16438dcbf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\5be0f8365f0b69643031432355df457e3b4e9858\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_36693388e92826aef441fc13c6e2d867f2fec9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pietr\.android\build-cache\ad9d2d2657364919d86be9ad33eee5a223e8aa89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\ReactNative\thelockapp\android\app\build\intermediates\pre-dexed\debug\classes_eb63a0c94c9265325721605d1784851a574d0070.jar" />
     </item>
 
 </items>
