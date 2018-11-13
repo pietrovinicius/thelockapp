@@ -8,12 +8,12 @@
         "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
         "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",

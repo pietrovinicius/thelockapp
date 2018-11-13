@@ -19,12 +19,13 @@ export default class App extends Component {
   }
 
   componentDidMount() {
-    setTimeout(() => { this.setState({ timePassed: true }) }, 2000);
+    setTimeout(() => { this.setState({ timePassed: true }) }, 3000);
   }
 
   componentWillMount() {
     console.log("=================WillMount()");
     BackHandler.addEventListener('hardwareBackPress', this.handleBackButton);
+    <ActivityIndicator size="large" color="#000000" />
   }
 
   componentWillUnmount() {
@@ -67,10 +68,10 @@ export default class App extends Component {
     if (!this.state.timePassed) {
       return (
         <View style={styles.container}>
-        {console.log("=================Carregando Imagem...")}                 
-          <Image style={styles.Image}
-            source={require('./src/img/002.png')}
-            resizeMode='center'            
+        {console.log("=================Carregando Imagem 003.png")}        
+          <Image style={styles.Image}          
+            source={require('./src/img/003.png')}
+            resizeMode='cover'            
           />
         </View>
       );
@@ -106,13 +107,15 @@ const styles = {
   container: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',       
   },
   WebView: {
-    position: 'relative'
+    position: 'relative',    
   },
   Image: {
-    resizeMode: 'center'
+    resizeMode: 'cover',
+    width:'100%',
+    height:'100%'
   },
   Texto: {
     color: 'red',

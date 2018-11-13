@@ -25,10 +25,10 @@ public final class R {
         public static final int notification_action_color_filter = 0x7f0b0000;
         public static final int notification_icon_bg_color = 0x7f0b0029;
         public static final int notification_material_background_media_default_color = 0x7f0b002a;
-        public static final int primary_text_default_material_dark = 0x7f0b002f;
-        public static final int ripple_material_light = 0x7f0b0034;
-        public static final int secondary_text_default_material_dark = 0x7f0b0035;
-        public static final int secondary_text_default_material_light = 0x7f0b0036;
+        public static final int primary_text_default_material_dark = 0x7f0b0030;
+        public static final int ripple_material_light = 0x7f0b0035;
+        public static final int secondary_text_default_material_dark = 0x7f0b0036;
+        public static final int secondary_text_default_material_light = 0x7f0b0037;
     }
     public static final class dimen {
         public static final int compat_button_inset_horizontal_material = 0x7f08004e;

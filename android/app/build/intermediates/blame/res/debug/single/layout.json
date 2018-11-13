@@ -72,12 +72,12 @@
         "source": "C:\\Users\\pietr\\.android\\build-cache\\65edfd82b6129925ce2ce77f61b87aa31be13a1c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
         "merged": "C:\\ReactNative\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\8c34ae57d3f4835bc0ec2b1bb37ef37ee9384372\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\pietr\\.android\\build-cache\\ad9d2d2657364919d86be9ad33eee5a223e8aa89\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "C:\\home\\plima\\OneDrive\\thelock\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\home\\plima\\.android\\build-cache\\7c35d374ff29faac004a44af4264058f81aef87d\\output\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "C:\\home\\plima\\OneDrive\\thelockapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
