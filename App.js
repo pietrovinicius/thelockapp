@@ -57,9 +57,16 @@ export default class App extends Component {
   }
  displaySpinner() {
   return (
-    <View style={styles.container}>
-      {console.log("=================Carregando WebView...")}      
-      <ActivityIndicator size="large" color="#000000" />
+    <View style={{flex:1, alignItems: 'center'}}>
+      {console.log("=================Carregando WebView...")}
+      {console.log("=================Carregando Imagem 001.png")} 
+      <Image style={{width:'100%', height:'100%'}} 
+            source={require('./src/img/001.png')}
+            resizeMode='cover'            
+          />
+          <ActivityIndicator 
+      style={{marginTop:-350}}
+      size="large" color="#000000" />
       <Text>Carregando...</Text>
     </View>
   );
@@ -68,9 +75,9 @@ export default class App extends Component {
     if (!this.state.timePassed) {
       return (
         <View style={styles.container}>
-        {console.log("=================Carregando Imagem 003.png")}        
+        {console.log("=================Carregando Imagem 001.png")}        
           <Image style={styles.Image}          
-            source={require('./src/img/003.png')}
+            source={require('./src/img/001.png')}
             resizeMode='cover'            
           />
         </View>
