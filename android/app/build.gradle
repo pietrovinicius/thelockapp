@@ -102,8 +102,10 @@ android {
         applicationId "com.thelockapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
-        versionName "1.0.2"
+        versionCode 3
+        //versão atualizada
+        //git - 13/11/2018
+        versionName "1.0.3"
         ndk {
             abiFilters "armeabi-v7a", "x86"
         }

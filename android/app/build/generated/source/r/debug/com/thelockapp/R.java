@@ -2331,20 +2331,22 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020050;
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
-        public static final int notification_action_background=0x7f020053;
-        public static final int notification_bg=0x7f020054;
-        public static final int notification_bg_low=0x7f020055;
-        public static final int notification_bg_low_normal=0x7f020056;
-        public static final int notification_bg_low_pressed=0x7f020057;
-        public static final int notification_bg_normal=0x7f020058;
-        public static final int notification_bg_normal_pressed=0x7f020059;
-        public static final int notification_icon_background=0x7f02005a;
-        public static final int notification_template_icon_bg=0x7f02005f;
-        public static final int notification_template_icon_low_bg=0x7f020060;
-        public static final int notification_tile_bg=0x7f02005b;
-        public static final int notify_panel_notification_icon_bg=0x7f02005c;
-        public static final int tooltip_frame_dark=0x7f02005d;
-        public static final int tooltip_frame_light=0x7f02005e;
+        public static final int background_splash=0x7f020053;
+        public static final int notification_action_background=0x7f020054;
+        public static final int notification_bg=0x7f020055;
+        public static final int notification_bg_low=0x7f020056;
+        public static final int notification_bg_low_normal=0x7f020057;
+        public static final int notification_bg_low_pressed=0x7f020058;
+        public static final int notification_bg_normal=0x7f020059;
+        public static final int notification_bg_normal_pressed=0x7f02005a;
+        public static final int notification_icon_background=0x7f02005b;
+        public static final int notification_template_icon_bg=0x7f020061;
+        public static final int notification_template_icon_low_bg=0x7f020062;
+        public static final int notification_tile_bg=0x7f02005c;
+        public static final int notify_panel_notification_icon_bg=0x7f02005d;
+        public static final int splash=0x7f02005e;
+        public static final int tooltip_frame_dark=0x7f02005f;
+        public static final int tooltip_frame_light=0x7f020060;
     }
     public static final class id {
         public static final int ALT=0x7f0c0031;
@@ -2623,8 +2625,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_DropDownUp=0x7f0900aa;
         public static final int Animation_AppCompat_Tooltip=0x7f0900ab;
         public static final int Animation_Catalyst_RedBox=0x7f0900ac;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f0900ad;
         public static final int Base_AlertDialog_AppCompat=0x7f0900ae;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0900af;
